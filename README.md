@@ -23,3 +23,5 @@ _zomato.csv_ contains the latitudes and longitudes of restaurants of Banglore lo
 - Training a Model 
 - Predictions 
 - Accuracy
+
+Note: Not able to add the dataset as the .csv file was more than 560mb
